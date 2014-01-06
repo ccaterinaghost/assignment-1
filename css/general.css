@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10rem;
+	color:#b82d5d;
+	position: absolute;
+	left: 19.5%;
+	top: 13.5rem;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10rem;
+	color:#b82d5d;
+	position: absolute;
+	float: right;
+	left: 76%;
+	top: 24.5rem;
+}
+
+blockquote {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color:#fff;
+	font-size: 1.7rem;
+	line-height: 1.95rem;
+}
+
+cite {
+	font-family: Arial, Helvetica, sans-serif;
+	color:rgba(255,255,255,0.75);
+	display: block;
+	text-align: right;
+	letter-spacing: -.5px;
+}
+
+.box {
+	background-color:#800040;
+	border-radius: 15px;
+	width: 65%;
+	height: 22rem;
+	margin: 10% auto;
+	padding: 5% 7%;
+}
+
+body {
+	background-color:#320318;
+	min-width: 1200px;
+}
